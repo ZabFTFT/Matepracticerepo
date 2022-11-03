@@ -1,2 +1,2 @@
-- [Preview](https://github.com/ZabFTFT/practicerepo/pull/1/files)
-- [Pull Request](https://zabftft.github.io/practicerepo/)
+- [Preview](https://zabftft.github.io/practicerepo/)
+- [Pull Request](https://github.com/ZabFTFT/practicerepo/pull/1/files)
