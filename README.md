@@ -1,2 +1,2 @@
-# practicerepo
-This is practice repo i've made for base practice
+- [Preview](https://zabftft.github.io/Matepracticerepo/)
+- [Pull Request](https://github.com/ZabFTFT/practicerepo/pull/1/files)
